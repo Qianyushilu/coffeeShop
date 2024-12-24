@@ -4,3 +4,9 @@ C:\Dev\C_sharp\X2402邹君诚_若雪咖啡\X2402邹君诚_若雪咖啡\obj\Debug
 C:\Dev\C_sharp\X2402邹君诚_若雪咖啡\X2402邹君诚_若雪咖啡\obj\Debug\X2402邹君诚_若雪咖啡.csproj.CoreCompileInputs.cache
 C:\Dev\C_sharp\X2402邹君诚_若雪咖啡\X2402邹君诚_若雪咖啡\obj\Debug\X2402邹君诚_若雪咖啡.exe
 C:\Dev\C_sharp\X2402邹君诚_若雪咖啡\X2402邹君诚_若雪咖啡\obj\Debug\X2402邹君诚_若雪咖啡.pdb
+C:\Users\z2004\Github\coffeeShop\X2402邹君诚_若雪咖啡\X2402邹君诚_若雪咖啡\bin\Debug\X2402邹君诚_若雪咖啡.exe
+C:\Users\z2004\Github\coffeeShop\X2402邹君诚_若雪咖啡\X2402邹君诚_若雪咖啡\bin\Debug\X2402邹君诚_若雪咖啡.pdb
+C:\Users\z2004\Github\coffeeShop\X2402邹君诚_若雪咖啡\X2402邹君诚_若雪咖啡\obj\Debug\X2402邹君诚_若雪咖啡.csproj.AssemblyReference.cache
+C:\Users\z2004\Github\coffeeShop\X2402邹君诚_若雪咖啡\X2402邹君诚_若雪咖啡\obj\Debug\X2402邹君诚_若雪咖啡.csproj.CoreCompileInputs.cache
+C:\Users\z2004\Github\coffeeShop\X2402邹君诚_若雪咖啡\X2402邹君诚_若雪咖啡\obj\Debug\X2402邹君诚_若雪咖啡.exe
+C:\Users\z2004\Github\coffeeShop\X2402邹君诚_若雪咖啡\X2402邹君诚_若雪咖啡\obj\Debug\X2402邹君诚_若雪咖啡.pdb
